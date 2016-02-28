@@ -1,3 +1,0 @@
-#### Headin of file
-**bold text**
-*italic text*
